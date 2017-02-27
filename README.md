@@ -19,7 +19,7 @@ cmake -DCMAKE_BUILD_TYPE=Release ../
 make
 ```
 
-The result is `libepoll_checker.so` library to be used with `LD_LIBRARY_PRELOAD`
+The result is `libepoll_checker.so` library to be used with `LD_PRELOAD`
 
 # Usage
 
