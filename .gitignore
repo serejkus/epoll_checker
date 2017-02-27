@@ -1,0 +1,8 @@
+*.sw[op]
+*.tm[op]
+*~
+
+*.[ao]
+*.so
+
+build/
